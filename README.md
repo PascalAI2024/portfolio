@@ -2,41 +2,62 @@
 
 > Systems with taste. Products with proof.
 
-This is a curated public portfolio of selected systems, products, research, and experiments. It is designed to show how work is framed, built, validated, and improved — without publishing client data, credentials, private repositories, or the internal machinery that makes the work repeatable.
+This is a public record of how PascalAI and Ingenious Digital approach difficult
+product work: reduce the interface to what matters, make the system legible,
+and keep human judgment at the decisive point. It is intentionally a
+documentation-first portfolio—not a code dump, a client list, or an operating
+manual.
 
-## What this portfolio shows
+## Start here
 
-| Practice | Public proof |
+| If you care about | Begin with |
 | --- | --- |
-| AI systems and automation | Product thinking, workflow design, safety boundaries, evaluation approach, and outcomes. |
-| Interactive products and games | World design, player loops, prototypes, visual direction, and technical craft. |
-| Research and analytics | Decision framing, methods, findings, and the practical change made from them. |
-| Web and growth systems | User journeys, performance work, measurement design, and before/after evidence. |
+| Agent systems with real boundaries | [JarvisMCP](case-studies/jarvismcp.md) |
+| Search intelligence and practical decision support | [Overwatch](case-studies/overwatch.md) |
+| Maintainable web and commerce operations | [IGD WP](case-studies/igd-wp.md) |
+| Native desktop engineering and local AI | [ZiggyZag](case-studies/ziggyzag.md) |
+| Hardware, interaction, and embodied AI | [JarvisNano](case-studies/jarvisnano.md) |
+| Privacy-first developer tooling | [VibeFlow](case-studies/vibeflow.md) |
 
-## A useful case study is not a code dump
+These are working drafts, grounded in public project records. A draft is a
+statement of scope, not a victory lap. It becomes publishable only after the
+proof and public boundary have both been reviewed.
 
-Every project entry should answer five things:
+## The capability map
 
-1. What was the real problem?
-2. What was the chosen approach and why?
-3. What did we build or change?
-4. What evidence shows that it worked?
-5. What can be shared publicly without exposing the operating system behind it?
+| Capability lane | The practical question | Selected proof |
+| --- | --- | --- |
+| Agent systems | How can a capable agent act without becoming an unaccountable one? | [JarvisMCP](case-studies/jarvismcp.md), [ZiggyZag](case-studies/ziggyzag.md) |
+| Intelligence products | How can dispersed data become a useful decision surface? | [Overwatch](case-studies/overwatch.md) |
+| Product platforms | How can a complex capability stay modular and understandable? | [IGD WP](case-studies/igd-wp.md) |
+| Interactive systems | How can voice, touch, display, and tools feel like one object? | [JarvisNano](case-studies/jarvisnano.md) |
+| Local-first tools | How can a useful personal tool remain private by default? | [VibeFlow](case-studies/vibeflow.md) |
 
-## Selected work
+For the wider lens, see the [capability map](capabilities/README.md),
+[public-safe system shapes](architecture/README.md), and [cleared proof
+standard](proof/README.md).
 
-The first case studies are being prepared. Each will be a short, visual read with a clear problem, a few decisive artifacts, and a restrained technical appendix.
+## What a case study proves
 
-- **Agent operations** — coordination patterns for reliable work across people, tools, and environments.
-- **Creative game systems** — playable worlds built around legible player loops and social discovery.
-- **Applied intelligence** — research and analysis converted into useful, testable decisions.
-- **Digital performance** — product and growth systems that make the important user action easier to measure and improve.
+Each case study answers the same seven questions:
 
-See [the case-study index](case-studies/README.md) for the publishing format and [the public-safe publishing guide](docs/PUBLISHING_GUIDE.md) for the boundary.
+1. What was the brief?
+2. What constraints actually mattered?
+3. What decisive move shaped the work?
+4. What is the high-level system shape?
+5. What public proof supports the story?
+6. What did the work establish or teach?
+7. What is deliberately not public?
 
-## The standard
+That last question is not decorative. Good work should be visible; proprietary
+method, client data, credentials, private source, and production access paths
+should not.
 
-Good work should be visible. The proprietary method does not need to be. This portfolio shares the judgment, craft, and evidence — not secrets, client identifiers, access paths, credentials, private datasets, or production internals.
+## Explore the record
+
+- [Case-study index](case-studies/README.md)
+- [Public boundaries](PUBLIC_BOUNDARIES.md)
+- [Publishing guide](docs/PUBLISHING_GUIDE.md)
 
 ---
 
