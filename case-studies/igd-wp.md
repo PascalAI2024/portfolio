@@ -1,7 +1,7 @@
 # IGD WP — A Modular Control Plane for WordPress
 
-**Status:** draft  
-**Domains:** WordPress, product engineering, agency operations  
+**Status:** draft
+**Domains:** WordPress, product engineering, agency operations
 **Public proof:** [public repository](https://github.com/PascalAI2024/igd-wp)
 
 ## The brief

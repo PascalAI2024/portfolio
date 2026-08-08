@@ -1,7 +1,7 @@
 # ZiggyZag — A Terminal That Keeps the Human in Charge
 
-**Status:** draft  
-**Domains:** native desktop, systems programming, local AI, developer tools  
+**Status:** draft
+**Domains:** native desktop, systems programming, local AI, developer tools
 **Public proof:** [public repository](https://github.com/PascalAI2024/ZiggyZag)
 
 ## The brief

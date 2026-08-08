@@ -1,7 +1,7 @@
 # Overwatch — Search Intelligence as One Working Surface
 
-**Status:** draft  
-**Domains:** product engineering, analytics, search, human-in-the-loop AI  
+**Status:** draft
+**Domains:** product engineering, analytics, search, human-in-the-loop AI
 **Public proof:** [product site](https://overwatch.igddev.com)
 
 ## The brief

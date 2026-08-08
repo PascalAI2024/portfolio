@@ -1,8 +1,8 @@
 # Case Study Title
 
-**Status:** candidate | clearance | draft | visual proof | review | published  
-**Domains:**  
-**Public-proof links:**  
+**Status:** candidate | clearance | draft | visual proof | review | published
+**Domains:**
+**Public-proof links:**
 
 ## The brief
 

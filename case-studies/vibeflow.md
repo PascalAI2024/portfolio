@@ -1,7 +1,7 @@
 # VibeFlow — Dictation That Stays on Your Machine
 
-**Status:** draft  
-**Domains:** desktop product, accessibility, local AI, privacy-first tooling  
+**Status:** draft
+**Domains:** desktop product, accessibility, local AI, privacy-first tooling
 **Public proof:** [public repository](https://github.com/PascalAI2024/VibeFlow)
 
 ## The brief

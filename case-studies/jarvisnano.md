@@ -1,7 +1,7 @@
 # JarvisNano — Making an Assistant Feel Physical
 
-**Status:** draft  
-**Domains:** embedded systems, interaction design, voice, physical computing  
+**Status:** draft
+**Domains:** embedded systems, interaction design, voice, physical computing
 **Public proof:** [public repository](https://github.com/PascalAI2024/JarvisNano)
 
 ## The brief

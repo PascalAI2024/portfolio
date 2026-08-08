@@ -8,6 +8,15 @@ and keep human judgment at the decisive point. It is intentionally a
 documentation-first portfolio—not a code dump, a client list, or an operating
 manual.
 
+```mermaid
+flowchart LR
+    A[Start with a real problem] --> B[Choose the capability lane]
+    B --> C[Read a selected case study]
+    C --> D[Inspect the public proof]
+    D --> E[See the boundary]
+    E --> F[Understand what is deliberately omitted]
+```
+
 ## Start here
 
 | If you care about | Begin with |
@@ -33,9 +42,9 @@ proof and public boundary have both been reviewed.
 | Interactive systems | How can voice, touch, display, and tools feel like one object? | [JarvisNano](case-studies/jarvisnano.md) |
 | Local-first tools | How can a useful personal tool remain private by default? | [VibeFlow](case-studies/vibeflow.md) |
 
-For the wider lens, see the [capability map](capabilities/README.md),
-[public-safe system shapes](architecture/README.md), and [cleared proof
-standard](proof/README.md).
+For the wider lens, see the [portfolio atlas](docs/PORTFOLIO_ATLAS.md),
+[capability map](capabilities/README.md), [public-safe system shapes](architecture/README.md),
+and [cleared proof standard](proof/README.md).
 
 ## What a case study proves
 
@@ -56,6 +65,8 @@ should not.
 ## Explore the record
 
 - [Case-study index](case-studies/README.md)
+- [Portfolio atlas](docs/PORTFOLIO_ATLAS.md)
+- [System-shape gallery](architecture/README.md)
 - [Public boundaries](PUBLIC_BOUNDARIES.md)
 - [Publishing guide](docs/PUBLISHING_GUIDE.md)
 

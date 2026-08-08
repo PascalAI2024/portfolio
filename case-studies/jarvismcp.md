@@ -1,7 +1,7 @@
 # JarvisMCP — A Smaller Interface for Broader Work
 
-**Status:** draft  
-**Domains:** agent systems, developer infrastructure, sandboxed execution  
+**Status:** draft
+**Domains:** agent systems, developer infrastructure, sandboxed execution
 **Public proof:** [production endpoint](https://mcp.igddev.com/mcp)
 
 ## The brief
