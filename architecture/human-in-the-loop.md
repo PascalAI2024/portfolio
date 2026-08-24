@@ -12,8 +12,10 @@ flowchart LR
     P -->|legible feedback| H
 ```
 
-The exact implementation varies by project. In [JarvisMCP](../case-studies/jarvismcp.md)
-and [ZiggyZag](../case-studies/ziggyzag.md), the focus is governed agent or
-terminal assistance. In [Overwatch](../case-studies/overwatch.md), it is an
-approval-aware decision surface. The diagram intentionally omits the internal
-mechanics that make each boundary secure.
+The exact implementation varies by project. In
+[ZiggyZag](../case-studies/ziggyzag.md), the native host owns approval before an
+agent mutation reaches the terminal. In
+[fplbench](../case-studies/fplbench.md), the human boundary is the frozen
+pre-deadline artifact and the refusal to rewrite it after the outcome. In
+[VibeGotchi](../case-studies/vibegotchi.md), it is the visible read-only GitHub
+permission model. The diagram intentionally omits private execution details.

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">PascalAI public engineering portfolio</title>
+  <desc id="desc">A dark signal-room diagram connecting governed AI, measured research, native software, products, and hardware to public evidence.</desc>
+  <style>
+    @media (max-width: 600px) {
+      .hero-micro { display: none; }
+      .hero-diagram { opacity: 0.22; }
+      .hero-headline { font-size: 78px; }
+      .hero-tagline { font-size: 34px; }
+    }
+  </style>
+  <rect width="1200" height="440" fill="#08111F"/>
+  <g stroke="#18304A" stroke-width="1" opacity="0.65">
+    <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200M0 400H1200"/>
+    <path d="M80 0V440M240 0V440M400 0V440M560 0V440M720 0V440M880 0V440M1040 0V440"/>
+  </g>
+  <g class="hero-micro">
+    <rect x="52" y="42" width="178" height="28" fill="#0E2034" stroke="#47D7FF"/>
+    <text x="68" y="61" fill="#47D7FF" font-family="Cascadia Code, Consolas, monospace" font-size="13" letter-spacing="2">PUBLIC PORTFOLIO</text>
+  </g>
+  <text class="hero-headline" x="52" y="145" fill="#D9E5F5" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">SYSTEMS THAT SHIP.</text>
+  <text class="hero-tagline" x="55" y="188" fill="#F2B84B" font-family="Cascadia Code, Consolas, monospace" font-size="21">Claims that can be checked.</text>
+  <text class="hero-micro" x="55" y="236" fill="#9FB2C8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Governed AI · measurable research · native software · physical interfaces</text>
+  <g class="hero-diagram" transform="translate(710 76)" font-family="Cascadia Code, Consolas, monospace" font-size="14">
+    <path d="M12 139H86M230 37H300M230 105H300M230 173H300M230 241H300" stroke="#47D7FF" stroke-width="2"/>
+    <path d="M86 37V241M86 37H112M86 105H112M86 173H112M86 241H112" stroke="#6F829C" stroke-width="2"/>
+    <circle cx="12" cy="139" r="8" fill="#F2B84B"/>
+    <rect x="112" y="16" width="118" height="42" fill="#0E2034" stroke="#47D7FF"/>
+    <rect x="112" y="84" width="118" height="42" fill="#0E2034" stroke="#47D7FF"/>
+    <rect x="112" y="152" width="118" height="42" fill="#0E2034" stroke="#47D7FF"/>
+    <rect x="112" y="220" width="118" height="42" fill="#0E2034" stroke="#47D7FF"/>
+    <text x="130" y="42" fill="#D9E5F5">AGENTS</text>
+    <text x="130" y="110" fill="#D9E5F5">MODELS</text>
+    <text x="130" y="178" fill="#D9E5F5">PRODUCTS</text>
+    <text x="130" y="246" fill="#D9E5F5">HARDWARE</text>
+    <rect x="300" y="112" width="128" height="54" fill="#172231" stroke="#F2B84B" stroke-width="2"/>
+    <text x="325" y="134" fill="#F2B84B" font-size="11" letter-spacing="1">PUBLIC</text>
+    <text x="322" y="153" fill="#D9E5F5">EVIDENCE</text>
+  </g>
+  <line x1="52" y1="338" x2="1148" y2="338" stroke="#294158"/>
+  <g class="hero-micro" fill="#8EA3BB" font-family="Cascadia Code, Consolas, monospace" font-size="12" letter-spacing="1.2">
+    <text x="55" y="374">PUBLIC CODE</text>
+    <text x="262" y="374">LIVE DEMOS</text>
+    <text x="461" y="374">REPRODUCIBLE BENCHMARKS</text>
+    <text x="797" y="374">EXPLICIT LIMITATIONS</text>
+  </g>
+  <g class="hero-micro" fill="#47D7FF">
+    <circle cx="41" cy="370" r="4"/><circle cx="248" cy="370" r="4"/>
+    <circle cx="447" cy="370" r="4"/><circle cx="783" cy="370" r="4"/>
+  </g>
+  <text class="hero-micro" x="55" y="416" fill="#6F829C" font-family="Segoe UI, Arial, sans-serif" font-size="13">PASCALAI / INGENIOUS DIGITAL · 2026</text>
+</svg>

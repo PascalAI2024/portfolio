@@ -1,8 +1,11 @@
 # ZiggyZag — A Terminal That Keeps the Human in Charge
 
-**Status:** draft
+**Publication status:** published
+**Project status:** active alpha
 **Domains:** native desktop, systems programming, local AI, developer tools
-**Public proof:** [public repository](https://github.com/PascalAI2024/ZiggyZag)
+**Public proof:** [source](https://github.com/PascalAI2024/ZiggyZag) ·
+[Actions](https://github.com/PascalAI2024/ZiggyZag/actions) ·
+[releases](https://github.com/PascalAI2024/ZiggyZag/releases)
 
 ## The brief
 

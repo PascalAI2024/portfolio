@@ -1,75 +1,188 @@
-# PascalAI — Selected Work
+<p align="center">
+  <img src="assets/portfolio-hero.svg" alt="PascalAI public portfolio: governed AI, measurable research, native software, and physical interfaces" width="100%">
+</p>
 
-> Systems with taste. Products with proof.
+# PascalAI — Selected Engineering Work
 
-This is a public record of how PascalAI and Ingenious Digital approach difficult
-product work: reduce the interface to what matters, make the system legible,
-and keep human judgment at the decisive point. It is intentionally a
-documentation-first portfolio—not a code dump, a client list, or an operating
-manual.
+<p align="center">
+  <strong>Systems that ship. Claims that can be checked.</strong><br>
+  <sub>Selected public work from PascalAI and Ingenious Digital.</sub>
+</p>
 
-```mermaid
-flowchart LR
-    A[Start with a real problem] --> B[Choose the capability lane]
-    B --> C[Read a selected case study]
-    C --> D[Inspect the public proof]
-    D --> E[See the boundary]
-    E --> F[Understand what is deliberately omitted]
-```
-
-## Start here
-
-| If you care about | Begin with |
-| --- | --- |
-| Agent systems with real boundaries | [JarvisMCP](case-studies/jarvismcp.md) |
-| Search intelligence and practical decision support | [Overwatch](case-studies/overwatch.md) |
-| Maintainable web and commerce operations | [IGD WP](case-studies/igd-wp.md) |
-| Native desktop engineering and local AI | [ZiggyZag](case-studies/ziggyzag.md) |
-| Hardware, interaction, and embodied AI | [JarvisNano](case-studies/jarvisnano.md) |
-| Privacy-first developer tooling | [VibeFlow](case-studies/vibeflow.md) |
-
-These are working drafts, grounded in public project records. A draft is a
-statement of scope, not a victory lap. It becomes publishable only after the
-proof and public boundary have both been reviewed.
-
-## The capability map
-
-| Capability lane | The practical question | Selected proof |
-| --- | --- | --- |
-| Agent systems | How can a capable agent act without becoming an unaccountable one? | [JarvisMCP](case-studies/jarvismcp.md), [ZiggyZag](case-studies/ziggyzag.md) |
-| Intelligence products | How can dispersed data become a useful decision surface? | [Overwatch](case-studies/overwatch.md) |
-| Product platforms | How can a complex capability stay modular and understandable? | [IGD WP](case-studies/igd-wp.md) |
-| Interactive systems | How can voice, touch, display, and tools feel like one object? | [JarvisNano](case-studies/jarvisnano.md) |
-| Local-first tools | How can a useful personal tool remain private by default? | [VibeFlow](case-studies/vibeflow.md) |
-
-For the wider lens, see the [portfolio atlas](docs/PORTFOLIO_ATLAS.md),
-[capability map](capabilities/README.md), [public-safe system shapes](architecture/README.md),
-and [cleared proof standard](proof/README.md).
-
-## What a case study proves
-
-Each case study answers the same seven questions:
-
-1. What was the brief?
-2. What constraints actually mattered?
-3. What decisive move shaped the work?
-4. What is the high-level system shape?
-5. What public proof supports the story?
-6. What did the work establish or teach?
-7. What is deliberately not public?
-
-That last question is not decorative. Good work should be visible; proprietary
-method, client data, credentials, private source, and production access paths
-should not.
-
-## Explore the record
-
-- [Case-study index](case-studies/README.md)
-- [Portfolio atlas](docs/PORTFOLIO_ATLAS.md)
-- [System-shape gallery](architecture/README.md)
-- [Public boundaries](PUBLIC_BOUNDARIES.md)
-- [Publishing guide](docs/PUBLISHING_GUIDE.md)
+<p align="center">
+  <a href="#start-with-the-proof">Flagship work</a> ·
+  <a href="#the-range">Capability range</a> ·
+  <a href="case-studies/README.md">Case studies</a> ·
+  <a href="proof/README.md">Evidence ledger</a> ·
+  <a href="https://ingeniousdigital.com/contact">Work together</a>
+</p>
 
 ---
 
-© PascalAI. Selected work only.
+## The short version
+
+This portfolio covers an unusual but coherent range: governed agent systems,
+applied machine learning, GPU performance engineering, native developer tools,
+web products, data operations, and embedded AI.
+
+The common thread is not a framework. It is the operating discipline:
+
+- turn an ambiguous problem into a legible product or experiment;
+- keep human authority visible where software can cause real effects;
+- measure the result against a fair baseline;
+- publish the evidence, limitations, and current status together.
+
+For a wider product view, visit [IGD/dev](https://igddev.com). For commercial
+work, use the [Ingenious Digital contact page](https://ingeniousdigital.com/contact).
+
+## Start with the proof
+
+### 01 · [fplbench](https://github.com/PascalAI2024/fplbench) — applied ML that keeps score
+
+A leakage-safe Fantasy Premier League dataset and forecasting system. Forecasts
+are committed before each deadline, the model plays its own public team, and
+automation grades the frozen forecast against official actuals after the
+gameweek. The public surface includes source, validation artifacts, a Hugging
+Face dataset, a living board, and an explicit corrections trail.
+
+**Inspect:** [repository](https://github.com/PascalAI2024/fplbench) ·
+[dataset](https://huggingface.co/datasets/x0me/fplbench) ·
+[live board](https://huggingface.co/spaces/x0me/fplbench-board) ·
+[case study](case-studies/fplbench.md)
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/x0me/fplbench-board">
+    <img src="https://raw.githubusercontent.com/PascalAI2024/fplbench/main/docs/img/social.png" alt="fplbench public prediction board and model summary" width="900">
+  </a><br>
+  <sub>Public prediction surface; the committed forecast is scored after the gameweek.</sub>
+</p>
+
+### 02 · [Maple CUDA](https://github.com/PascalAI2024/maple-preview-windows-cuda) — performance with correctness gates
+
+Seven local CUDA patches made a 20B-A1B ternary model practical on a 16 GB GPU.
+The work records the failed paths as well as the winning ones: generation moved
+from 52 to 377 tokens/s in the original controlled series, a fresh A/B/B/A run
+moved prompt processing from 1,457 to 10,674 tokens/s, and every enabled build
+passed the 103-case CPU-reference matrix.
+
+**Inspect:** [repository](https://github.com/PascalAI2024/maple-preview-windows-cuda) ·
+[benchmark dataset](https://huggingface.co/datasets/x0me/maple-preview-cuda-benchmarks) ·
+[case study](case-studies/maple-cuda.md)
+
+### 03 · [ZiggyZag](https://github.com/PascalAI2024/ZiggyZag) — native software with an approval boundary
+
+An all-Zig shell workspace combining a readable shell core, native Windows and
+macOS terminal hosts, a cross-platform launcher, and a local AI sidecar. The
+agent can propose mutations; the host owns the approval. The repository exposes
+the process boundaries, release artifacts, platform caveats, and conformance
+tests rather than hiding them behind a product screenshot.
+
+**Inspect:** [repository](https://github.com/PascalAI2024/ZiggyZag) ·
+[releases](https://github.com/PascalAI2024/ZiggyZag/releases) ·
+[case study](case-studies/ziggyzag.md)
+
+### 04 · [JarvisNano](https://github.com/PascalAI2024/JarvisNano) — AI becomes a physical interaction problem
+
+ESP32-S3 firmware for a small desktop assistant with a round AMOLED display,
+touch, microphone and speaker paths, live voice, device diagnostics, and a
+guarded tool bridge. The active v1 target is real hardware; unfinished tracks
+remain labeled as such.
+
+**Inspect:** [repository](https://github.com/PascalAI2024/JarvisNano) ·
+[architecture](https://github.com/PascalAI2024/JarvisNano/blob/main/docs/ARCHITECTURE.md) ·
+[case study](case-studies/jarvisnano.md)
+
+<p align="center">
+  <a href="https://github.com/PascalAI2024/JarvisNano">
+    <img src="https://raw.githubusercontent.com/PascalAI2024/JarvisNano/main/images/hero.png" alt="JarvisNano round AMOLED desktop assistant hardware" width="820">
+  </a><br>
+  <sub>Current public hardware target and interaction surface.</sub>
+</p>
+
+## The range
+
+```mermaid
+flowchart TB
+    P[Real problem] --> A[Agent and AI systems]
+    P --> R[Measured research]
+    P --> S[Native and performance engineering]
+    P --> D[Products and data operations]
+    P --> H[Embedded and physical interfaces]
+    A --> PA[PicoArmy]
+    A --> ZZ[ZiggyZag]
+    R --> F[fplbench]
+    R --> Q[Qwen quant study]
+    S --> M[Maple CUDA]
+    D --> VG[VibeGotchi]
+    D --> V[Verrow]
+    H --> J[JarvisNano]
+    PA --> E[Public artifact or explicit limitation]
+    ZZ --> E
+    F --> E
+    Q --> E
+    M --> E
+    VG --> E
+    V --> E
+    J --> E
+```
+
+### More public work
+
+- **[VibeGotchi](https://github.com/PascalAI2024/VibeGotchi)** — a
+  [live](https://vibegotchi.pages.dev) GitHub-powered virtual pet with read-only
+  OAuth, transparent scoring, and shareable artifacts.
+- **[PicoArmy](https://github.com/PascalAI2024/picoarmy)** — a public
+  TypeScript/PostgreSQL prototype for supervised self-hosted agent fleets,
+  scoped MCP access, and audited operations. No public deployment is claimed.
+- **[Qwen quant benchmark](https://github.com/PascalAI2024/qwen38-27b-quant-bench)** —
+  sub-2-bit quantization and speculative-decoding research with raw results,
+  limitations, and a corrections log.
+- **[Verrow](https://github.com/PascalAI2024/verrow)** — an open lead-data
+  quality workbench; ingestion and mapping are implemented while later data
+  surfaces remain explicitly labeled as prototype work.
+
+The [public project index](docs/PUBLIC_PROJECT_INDEX.md) includes the wider
+catalogue and explains why some repositories are supporting evidence rather
+than flagships.
+
+## How this work is judged
+
+1. **The artifact must be inspectable.** Source, a live surface, raw evidence,
+   or a clearly bounded public-safe narrative.
+2. **The comparison must be fair.** Frozen forecasts, controlled A/B runs,
+   common masks, correctness references, and disclosed constraints.
+3. **The human boundary must be legible.** Approval, privacy, credentials, and
+   irreversible actions are product decisions—not footnotes.
+4. **Current status travels with the claim.** Alpha is called alpha. A prototype
+   is not quietly promoted to production by adjective.
+
+The automated [portfolio quality workflow](https://github.com/PascalAI2024/portfolio/actions/workflows/portfolio-quality.yml)
+checks the internal evidence graph on every push to `main`, and on pull
+requests. The [evidence ledger](proof/README.md) records the public artifacts
+behind the headline claims.
+
+## Explore the record
+
+- [Published case studies](case-studies/README.md)
+- [Portfolio atlas](docs/PORTFOLIO_ATLAS.md)
+- [Public project index](docs/PUBLIC_PROJECT_INDEX.md)
+- [Capability map](capabilities/README.md)
+- [Public-safe system shapes](architecture/README.md)
+- [Evidence ledger](proof/README.md)
+- [Public boundaries](PUBLIC_BOUNDARIES.md)
+- [Portfolio changelog](CHANGELOG.md)
+
+Source-private work appears only as clearly labeled context. It is never counted
+as public proof simply because a description sounds plausible.
+
+## Work together
+
+The best fit is work that needs both product judgment and engineering depth:
+applied AI, agent infrastructure, custom software, performance work, research
+systems, and complex prototypes that need to become maintainable products.
+
+**[Start a conversation with Ingenious Digital →](https://ingeniousdigital.com/contact)**
+
+---
+
+<sub>Public portfolio refreshed 24 August 2026. © PascalAI. Selected work only.</sub>

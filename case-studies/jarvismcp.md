@@ -1,8 +1,9 @@
 # JarvisMCP — A Smaller Interface for Broader Work
 
-**Status:** draft
+**Publication status:** public-safe narrative
+**Project status:** source-private production infrastructure
 **Domains:** agent systems, developer infrastructure, sandboxed execution
-**Public proof:** [production endpoint](https://mcp.igddev.com/mcp)
+**Evidence posture:** authenticated service; not counted as inspectable public proof
 
 ## The brief
 
@@ -26,11 +27,11 @@ Client requests enter a shared gateway, which resolves the relevant capability
 and runs bounded work through a sandboxed execution layer. Trusted services
 remain outside that execution boundary.
 
-## Public proof
+## Evidence posture
 
-The public project record describes the two-tool interface, a shared SDK with
-bundled and manifest-driven services, and the separation between sandboxed code
-and trusted processes.
+The production service is authenticated and its source is private. This note
+describes a reviewed public boundary, not an invitation to infer implementation
+details or production status from an endpoint.
 
 ## Outcome or learning
 

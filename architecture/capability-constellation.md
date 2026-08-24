@@ -1,29 +1,31 @@
 # Capability Constellation
 
-The selected projects differ in medium—gateway, web application, plugin,
-desktop tool, and device—but they repeat a small set of design commitments:
-legible surfaces, modular responsibility, and a visible human role.
+The projects differ in medium, but repeat four design commitments: measurable
+claims, legible state, bounded authority, and explicit current status.
 
 ```mermaid
 flowchart TB
-    S[Selected work] --> A[Governed capability]
-    S --> B[Legible decision surfaces]
-    S --> C[Modular responsibility]
-    S --> D[Local and physical interaction]
-    A --> J[JarvisMCP]
+    S[Selected public work] --> A[Bounded authority]
+    S --> B[Measured claims]
+    S --> C[Legible product state]
+    S --> D[Explicit status]
     A --> Z[ZiggyZag]
-    B --> O[Overwatch]
-    C --> W[IGD WP]
-    D --> V[VibeFlow]
-    D --> N[JarvisNano]
-    J -. shared principle .-> H[Human judgment stays visible]
-    Z -. shared principle .-> H
-    O -. shared principle .-> H
-    W -. shared principle .-> H
-    V -. shared principle .-> H
-    N -. shared principle .-> H
+    A --> V[VibeGotchi]
+    B --> F[fplbench]
+    B --> M[Maple CUDA]
+    B --> Q[Qwen Quant Bench]
+    C --> J[JarvisNano]
+    C --> P[PicoArmy]
+    D --> E[Evidence ledger]
+    Z --> E
+    V --> E
+    F --> E
+    M --> E
+    Q --> E
+    J --> E
+    P --> E
 ```
 
-This is a conceptual map rather than a dependency graph. It does not imply that
-the projects share code, customers, infrastructure, or production services.
-For the project-level evidence, use the [case-study index](../case-studies/README.md).
+This is a conceptual map, not a dependency graph. It does not imply that the
+projects share code, customers, infrastructure, or production services. Follow
+the [case-study index](../case-studies/README.md) for project-level evidence.

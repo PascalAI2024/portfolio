@@ -1,8 +1,10 @@
 # JarvisNano — Making an Assistant Feel Physical
 
-**Status:** draft
+**Publication status:** published
+**Project status:** active hardware release candidate
 **Domains:** embedded systems, interaction design, voice, physical computing
-**Public proof:** [public repository](https://github.com/PascalAI2024/JarvisNano)
+**Public proof:** [source](https://github.com/PascalAI2024/JarvisNano) ·
+[architecture](https://github.com/PascalAI2024/JarvisNano/blob/main/docs/ARCHITECTURE.md)
 
 ## The brief
 
@@ -41,6 +43,6 @@ device itself.
 
 ## The boundary
 
-This draft omits device configuration, access routes, diagnostics, credentials,
+This study omits device configuration, access routes, credentials,
 and source-level setup procedures. It is described as active release-candidate
 work, not a finished consumer product.

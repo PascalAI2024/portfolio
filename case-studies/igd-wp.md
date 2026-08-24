@@ -1,8 +1,9 @@
 # IGD WP — A Modular Control Plane for WordPress
 
-**Status:** draft
+**Publication status:** public-safe narrative
+**Project status:** source-private product work
 **Domains:** WordPress, product engineering, agency operations
-**Public proof:** [public repository](https://github.com/PascalAI2024/igd-wp)
+**Evidence posture:** not counted as independently inspectable public proof
 
 ## The brief
 
@@ -26,10 +27,10 @@ Site operators interact with one control centre. Underneath, individual modules
 own distinct site capabilities while a documented extension point allows the
 platform to grow without rewriting its core wiring.
 
-## Public proof
+## Evidence posture
 
-The public GPL project documents its module model, extension hook, supported
-WordPress and PHP baseline, and operator-facing control centre.
+The source and live operating context are private. This note preserves the
+public-safe product decision, but it is supporting context rather than proof.
 
 ## Outcome or learning
 

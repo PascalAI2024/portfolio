@@ -1,8 +1,9 @@
 # Overwatch — Search Intelligence as One Working Surface
 
-**Status:** draft
+**Publication status:** public-safe narrative
+**Project status:** source-private product work
 **Domains:** product engineering, analytics, search, human-in-the-loop AI
-**Public proof:** [product site](https://overwatch.igddev.com)
+**Evidence posture:** login-gated product; not counted as inspectable public proof
 
 ## The brief
 
@@ -28,11 +29,11 @@ A web application gathers search, analytics, business-profile, and web-vitals
 signals into a project view. Background work keeps the picture current; an
 approval-aware assistant turns that picture into proposed actions.
 
-## Public proof
+## Evidence posture
 
-The public project record documents the major product modules: rank and traffic
-analysis, local search, AI visibility, reporting, project organisation, and
-approval-aware content proposals.
+The public route is login-gated and the source is private. This note records the
+product framing and decision boundary, but it is not used as proof of individual
+modules or outcomes.
 
 ## Outcome or learning
 

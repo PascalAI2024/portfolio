@@ -1,8 +1,9 @@
 # VibeFlow — Dictation That Stays on Your Machine
 
-**Status:** draft
+**Publication status:** public-safe narrative
+**Project status:** source-private pre-release work
 **Domains:** desktop product, accessibility, local AI, privacy-first tooling
-**Public proof:** [public repository](https://github.com/PascalAI2024/VibeFlow)
+**Evidence posture:** not counted as independently inspectable public proof
 
 ## The brief
 
@@ -28,11 +29,11 @@ An overlay captures speech, a local worker transcribes it, and a guarded output
 path returns the cleaned text to the active application. Supporting local data
 such as snippets and vocabulary remains under the user's control.
 
-## Public proof
+## Evidence posture
 
-The public project record documents the local-first privacy model, on-device
-transcription workflow, accessibility posture, dictation controls, and the
-current Windows-first pre-release status.
+The source is currently private. This note preserves the public-safe product
+decision and stated pre-release boundary; it is context rather than public
+proof.
 
 ## Outcome or learning
 
