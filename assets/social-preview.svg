@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="PascalAI — Selected Engineering Work. Systems that ship, claims that can be checked.">
+  <title>PascalAI — Selected Engineering Work</title>
+  <defs>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08111F"/>
+      <stop offset="55%" stop-color="#0D1B2E"/>
+      <stop offset="100%" stop-color="#08111F"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#47D7FF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#47D7FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#47D7FF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="wash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#47D7FF" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#47D7FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#field)"/>
+
+  <!-- measurement grid -->
+  <g stroke="#1A2C45" stroke-width="1" opacity="0.6">
+    <path d="M0 106h1280M0 212h1280M0 318h1280M0 424h1280M0 530h1280"/>
+    <path d="M160 0v640M320 0v640M480 0v640M640 0v640M800 0v640M960 0v640M1120 0v640"/>
+  </g>
+
+  <!-- rising measured signal, kept clear of the text block -->
+  <path d="M700 452 L780 430 L850 436 L920 388 L990 394 L1060 330 L1130 338 L1210 262 L1290 250 L1290 640 L700 640 Z" fill="url(#wash)"/>
+  <path d="M700 452 L780 430 L850 436 L920 388 L990 394 L1060 330 L1130 338 L1210 262 L1290 250"
+        fill="none" stroke="url(#trace)" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#08111F" stroke="#F2B84B" stroke-width="3">
+    <circle cx="920" cy="388" r="7"/>
+    <circle cx="1060" cy="330" r="7"/>
+    <circle cx="1210" cy="262" r="7"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="80" y="122" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace"
+        font-size="21" letter-spacing="5" fill="#47D7FF">INGENIOUS DIGITAL</text>
+
+  <!-- wordmark -->
+  <text x="76" y="248" font-family="'Segoe UI','Segoe UI Semibold',Inter,'Helvetica Neue',Arial,sans-serif"
+        font-size="104" font-weight="700" letter-spacing="-2.5" fill="#D9E5F5">Pascal<tspan fill="#47D7FF">AI</tspan></text>
+
+  <text x="80" y="304" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif"
+        font-size="38" font-weight="600" fill="#D9E5F5">Selected Engineering Work</text>
+
+  <text x="80" y="352" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif"
+        font-size="27" font-weight="400" fill="#6F829C">Systems that ship. Claims that can be checked.</text>
+
+  <!-- proof chips -->
+  <g font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="19" letter-spacing="1.4">
+    <g fill="none" stroke="#1A2C45" stroke-width="1.5">
+      <rect x="80"  y="416" width="258" height="52" rx="26"/>
+      <rect x="352" y="416" width="212" height="52" rx="26"/>
+      <rect x="80"  y="484" width="258" height="52" rx="26"/>
+      <rect x="352" y="484" width="212" height="52" rx="26"/>
+    </g>
+    <g fill="#D9E5F5">
+      <text x="116" y="449">52 → 377 tok/s</text>
+      <text x="388" y="449">103/103 pass</text>
+      <text x="116" y="517">frozen forecasts</text>
+      <text x="388" y="517">corrections log</text>
+    </g>
+    <g fill="#F2B84B">
+      <circle cx="102" cy="442" r="4"/><circle cx="374" cy="442" r="4"/>
+      <circle cx="102" cy="510" r="4"/><circle cx="374" cy="510" r="4"/>
+    </g>
+  </g>
+
+  <!-- footer -->
+  <text x="80" y="592" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace"
+        font-size="20" fill="#6F829C">github.com/PascalAI2024/portfolio</text>
+  <text x="1200" y="592" text-anchor="end" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace"
+        font-size="20" fill="#6F829C">ingeniousdigital.com</text>
+
+  <rect x="0" y="0" width="1280" height="6" fill="#47D7FF"/>
+</svg>
