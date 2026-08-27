@@ -27,10 +27,10 @@ useful context, but they are **not** counted as independently inspectable proof:
 - [IGD WP](igd-wp.md) — modular WordPress operations.
 - [VibeFlow](vibeflow.md) — local-first dictation.
 
-## Editorial contract
+## House style
 
 - Lead with the work, not a technology inventory.
-- Prefer attributable public artifacts over anonymous superlatives.
+- Link the artifact.
 - Keep current product status beside the claim.
 - Name private evidence as private.
 - Use redacted, synthetic, or recreated examples when source cannot be public.

@@ -5,12 +5,12 @@
 # PascalAI — Selected Engineering Work
 
 <p align="center">
-  <strong>Systems that ship. Claims that can be checked.</strong><br>
+  <strong>20B parameters in 7.3&nbsp;GB. Forecasts graded after the whistle. A shell that asks first.</strong><br>
   <sub>Selected public work from PascalAI and Ingenious Digital.</sub>
 </p>
 
 <p align="center">
-  <a href="#start-with-the-proof">Flagship work</a> ·
+  <a href="#the-work">The work</a> ·
   <a href="#the-range">Capability range</a> ·
   <a href="case-studies/README.md">Case studies</a> ·
   <a href="proof/README.md">Evidence ledger</a> ·
@@ -25,17 +25,10 @@ This portfolio covers an unusual but coherent range: governed agent systems,
 applied machine learning, GPU performance engineering, native developer tools,
 web products, data operations, and embedded AI.
 
-The common thread is not a framework. It is the operating discipline:
-
-- turn an ambiguous problem into a legible product or experiment;
-- keep human authority visible where software can cause real effects;
-- measure the result against a fair baseline;
-- publish the evidence, limitations, and current status together.
-
 For a wider product view, visit [IGD/dev](https://igddev.com). For commercial
 work, use the [Ingenious Digital contact page](https://ingeniousdigital.com/contact).
 
-## Start with the proof
+## The work
 
 ### 01 · [fplbench](https://github.com/PascalAI2024/fplbench) — applied ML that keeps score
 
@@ -145,16 +138,7 @@ The [public project index](docs/PUBLIC_PROJECT_INDEX.md) includes the wider
 catalogue and explains why some repositories are supporting evidence rather
 than flagships.
 
-## How this work is judged
-
-1. **The artifact must be inspectable.** Source, a live surface, raw evidence,
-   or a clearly bounded public-safe narrative.
-2. **The comparison must be fair.** Frozen forecasts, controlled A/B runs,
-   common masks, correctness references, and disclosed constraints.
-3. **The human boundary must be legible.** Approval, privacy, credentials, and
-   irreversible actions are product decisions—not footnotes.
-4. **Current status travels with the claim.** Alpha is called alpha. A prototype
-   is not quietly promoted to production by adjective.
+## Checks
 
 The automated [portfolio quality workflow](https://github.com/PascalAI2024/portfolio/actions/workflows/portfolio-quality.yml)
 checks the internal evidence graph on every push to `main`, and on pull

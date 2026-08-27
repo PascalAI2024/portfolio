@@ -19,7 +19,7 @@
     <text x="68" y="61" fill="#47D7FF" font-family="Cascadia Code, Consolas, monospace" font-size="13" letter-spacing="2">PUBLIC PORTFOLIO</text>
   </g>
   <text class="hero-headline" x="52" y="145" fill="#D9E5F5" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">SYSTEMS THAT SHIP.</text>
-  <text class="hero-tagline" x="55" y="188" fill="#F2B84B" font-family="Cascadia Code, Consolas, monospace" font-size="21">Claims that can be checked.</text>
+  <text class="hero-tagline" x="55" y="188" fill="#F2B84B" font-family="Cascadia Code, Consolas, monospace" font-size="21">20B parameters in 7.3 GB. 103/103 correct.</text>
   <text class="hero-micro" x="55" y="236" fill="#9FB2C8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Governed AI · measurable research · native software · physical interfaces</text>
   <g class="hero-diagram" transform="translate(710 76)" font-family="Cascadia Code, Consolas, monospace" font-size="14">
     <path d="M12 139H86M230 37H300M230 105H300M230 173H300M230 241H300" stroke="#47D7FF" stroke-width="2"/>
@@ -39,10 +39,10 @@
   </g>
   <line x1="52" y1="338" x2="1148" y2="338" stroke="#294158"/>
   <g class="hero-micro" fill="#8EA3BB" font-family="Cascadia Code, Consolas, monospace" font-size="12" letter-spacing="1.2">
-    <text x="55" y="374">PUBLIC CODE</text>
+    <text x="55" y="374">SOURCE</text>
     <text x="262" y="374">LIVE DEMOS</text>
-    <text x="461" y="374">REPRODUCIBLE BENCHMARKS</text>
-    <text x="797" y="374">EXPLICIT LIMITATIONS</text>
+    <text x="461" y="374">BENCHMARK DATA</text>
+    <text x="797" y="374">LIMITATIONS</text>
   </g>
   <g class="hero-micro" fill="#47D7FF">
     <circle cx="41" cy="370" r="4"/><circle cx="248" cy="370" r="4"/>

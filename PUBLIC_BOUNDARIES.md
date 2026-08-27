@@ -10,5 +10,4 @@ evidence; omit the machinery that would expose a client or make private work
 reusable without context.
 
 Claims are published only when they are attributable to a public artifact or a
-public-safe, reviewable description. When evidence is private, the boundary is
-stated rather than embellished.
+public-safe, reviewable description. When evidence is private, that is stated.

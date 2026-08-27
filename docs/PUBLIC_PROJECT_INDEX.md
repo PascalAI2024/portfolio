@@ -1,7 +1,6 @@
 # Public Project Index
 
-This is the wider catalogue behind the selected case studies. Status labels are
-deliberately conservative and were reviewed on 24 August 2026.
+This is the wider catalogue behind the selected case studies. Status was reviewed on 24 August 2026.
 
 | Project | Lane | Public state | Evidence posture |
 | --- | --- | --- | --- |
@@ -17,6 +16,4 @@ deliberately conservative and were reviewed on 24 August 2026.
 | [Kaggle Field Notes](https://github.com/PascalAI2024/Kaggle-Portfolio) | Competitive ML practice | Evidence framework | Method and public boundaries are documented; competition-result inventory is intentionally incomplete |
 | [PAL](https://github.com/PascalAI2024/pal-lang) | Agent language research | Early concept | Public statement of intent only; not presented as a completed system |
 
-Forks and source-private repositories are not presented as original public
-proof. Popularity counters are useful signals, but technical claims are tied to
-artifacts rather than stars.
+Forks and source-private repositories are excluded.
