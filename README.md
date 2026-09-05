@@ -30,6 +30,19 @@ work, use the [Ingenious Digital contact page](https://ingeniousdigital.com/cont
 
 ## The work
 
+### Production systems · JarvisMCP, ButlerCRM and Overwatch
+
+I build and operate the applications around the AI integration: **JarvisMCP**
+connects agents to discoverable capabilities and durable task coordination;
+**[ButlerCRM](https://butlercrm.com)** brings business workflows into a configurable
+application shell; **Overwatch** connects search and analytics data with an
+operational interface. These systems have private source. Their public case
+studies explain the engineering without presenting private code as open source.
+
+**Explore:** [JarvisMCP architecture](case-studies/jarvismcp.md) ·
+[Overwatch case study](case-studies/overwatch.md) ·
+[current professional profile](https://www.linkedin.com/in/pascal-l-7ab39b3b/)
+
 ### 01 · [fplbench](https://github.com/PascalAI2024/fplbench) — applied ML that keeps score
 
 A leakage-safe Fantasy Premier League dataset and forecasting system. Forecasts
@@ -106,7 +119,7 @@ flowchart TB
     R --> F[fplbench]
     R --> Q[Qwen quant study]
     S --> M[Maple CUDA]
-    D --> VG[VibeGotchi]
+    D --> VG[IGD Games]
     D --> V[Verrow]
     H --> J[JarvisNano]
     PA --> E[Public artifact or explicit limitation]
@@ -121,9 +134,12 @@ flowchart TB
 
 ### More public work
 
-- **[VibeGotchi](https://github.com/PascalAI2024/VibeGotchi)** — a
-  [live](https://vibegotchi.pages.dev) GitHub-powered virtual pet with read-only
-  OAuth, transparent scoring, and shareable artifacts.
+- **[IGD Games](https://games.igddev.com)** — a playable browser-game lab spanning
+  circuit puzzles, colony routing, Latvian folklore and tactical prototypes.
+  Try **Gizmo Works**, **SubTerra Lite**, and **Papardes Zieds** in the browser.
+  The demos are public; source is private and release maturity varies by game.
+  [Project story](case-studies/igd-games.md).
+
 - **[PicoArmy](https://github.com/PascalAI2024/picoarmy)** — a public
   TypeScript/PostgreSQL prototype for supervised self-hosted agent fleets,
   scoped MCP access, and audited operations. No public deployment is claimed.
@@ -169,4 +185,4 @@ systems, and complex prototypes that need to become maintainable products.
 
 ---
 
-<sub>Public portfolio refreshed 24 August 2026. © PascalAI. Selected work only.</sub>
+<sub>Public portfolio refreshed 4 September 2026. © PascalAI. Selected work only.</sub>

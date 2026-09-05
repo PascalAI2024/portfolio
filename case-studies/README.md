@@ -12,12 +12,14 @@ states the problem, decisive move, evidence, limitation, and public boundary.
 | [Qwen Quant Bench](qwen-quant-bench.md) | Quantization research with raw results and a corrections log | Completed research record |
 | [ZiggyZag](ziggyzag.md) | Native terminal engineering and approval-gated local AI | Active alpha |
 | [JarvisNano](jarvisnano.md) | Embedded voice, touch, display, and tool interaction | Active hardware release candidate |
-| [VibeGotchi](vibegotchi.md) | Privacy-aware GitHub integration and a live consumer product | Live application |
 
 The [evidence ledger](../proof/README.md) links the underlying repositories,
 datasets, releases, workflows, and live surfaces.
 
 ## Source-private product notes
+
+- [IGD Games](igd-games.md) — a public browser-game lab with private source;
+  playable demos show the work directly, while release maturity varies by game.
 
 These notes explain recurring design decisions in private systems. They are
 useful context, but they are **not** counted as independently inspectable proof:
