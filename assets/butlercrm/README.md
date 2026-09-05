@@ -8,6 +8,10 @@ project records shown are fictional and visibly labeled DEMO.
 Email, external workers, AI calls and Jarvis integration were disabled.
 No production records, sessions or credentials were used in these captures.
 
+The published set uses the application's built-in Aurora dark palette,
+selected through Appearance in the isolated demo. The user's production
+theme preference was not changed. Earlier light captures remain in history.
+
 - `butler-board-desktop.jpg`: actual work board and full application shell.
 - `butler-task-detail.jpg`: actual task detail with fictional subtask/comment.
 - `butler-task-mobile-420.jpg`: the same task at a mobile viewport.

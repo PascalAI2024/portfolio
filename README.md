@@ -56,6 +56,15 @@ and the artist's brand collaborations remain hers.
 **Explore:** [project story and real desktop/mobile gallery](case-studies/ladie-one.md) ·
 [live website](https://ladieone.com/)
 
+### Client commerce · Healthy Glow Shopify
+
+A branded skincare shop built on customized Shopify Dawn, with collection
+filters, product variants and metafield-driven discovery. The case study
+shows the real collection and product interface on desktop and mobile.
+
+**Explore:** [Shopify project and gallery](case-studies/healthy-glow-shopify.md) ·
+[live shop](https://shop.healthyglowaesthetics.com/)
+
 ### 01 · [fplbench](https://github.com/PascalAI2024/fplbench) — applied ML that keeps score
 
 A leakage-safe Fantasy Premier League dataset and forecasting system. Forecasts
