@@ -12,12 +12,12 @@ The published set uses the application's built-in Aurora dark palette,
 selected through Appearance in the isolated demo. The user's production
 theme preference was not changed. Earlier light captures remain in history.
 
-- `butler-board-desktop.jpg`: actual work board and full application shell.
-- `butler-task-detail.jpg`: actual task detail with fictional subtask/comment.
-- `butler-task-mobile-420.jpg`: the same task at a mobile viewport.
-- `customer-desktop.jpg`: actual customer record, timeline and linked deal.
-- `customer-mobile.jpg`: the same customer workflow at a mobile viewport.
-- `pipeline-desktop-v2.jpg`: actual sales pipeline, captured at a shorter
+- `butler-board-desktop-aurora.jpg`: actual work board and full application shell.
+- `butler-task-detail-aurora.jpg`: actual task detail with fictional subtask/comment.
+- `butler-task-mobile-420-aurora.jpg`: the same task at a mobile viewport.
+- `customer-desktop-aurora.jpg`: actual customer record, timeline and linked deal.
+- `customer-mobile-aurora.jpg`: the same customer workflow at a mobile viewport.
+- `pipeline-desktop-aurora.jpg`: actual sales pipeline, captured at a shorter
   native viewport to retain all four stages without unused lower canvas.
 
 The customer was created through the actual contact form. Its opportunity
