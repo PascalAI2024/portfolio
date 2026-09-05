@@ -7,6 +7,22 @@ The screenshots below show the actual application running locally with
 fictional demo records, captured September 5, 2026. The production source
 is private.
 
+## Keep the customer relationship in context
+
+The customer record brings identity, status, activity history and linked
+opportunities into one view. This fictional example connects a discovery
+note with its related website opportunity.
+
+![Actual ButlerCRM customer record with activity timeline and linked sales opportunity](../assets/butlercrm/customer-desktop.jpg)
+
+The sales pipeline groups opportunities by stage. Here, five fictional
+opportunities sit across discovery, proposal, review and confirmation. Deal
+values are unpopulated; the displayed totals are not sales results.
+
+![Actual ButlerCRM sales pipeline with four stages and five fictional opportunities](../assets/butlercrm/pipeline-desktop-v2.jpg)
+
+<img src="../assets/butlercrm/customer-mobile.jpg" alt="Actual customer timeline and linked opportunity on a mobile screen" width="420" />
+
 ## Make the next step visible
 
 A project board gives work a clear path from brief to build, review and

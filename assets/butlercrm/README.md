@@ -11,6 +11,15 @@ No production records, sessions or credentials were used in these captures.
 - `butler-board-desktop.jpg`: actual work board and full application shell.
 - `butler-task-detail.jpg`: actual task detail with fictional subtask/comment.
 - `butler-task-mobile-420.jpg`: the same task at a mobile viewport.
+- `customer-desktop.jpg`: actual customer record, timeline and linked deal.
+- `customer-mobile.jpg`: the same customer workflow at a mobile viewport.
+- `pipeline-desktop-v2.jpg`: actual sales pipeline, captured at a shorter
+  native viewport to retain all four stages without unused lower canvas.
+
+The customer was created through the actual contact form. Its opportunity
+was linked through the existing tenant-scoped application API; this does
+not claim that the native deal editor offers a contact selector. Values are
+unpopulated, and no external provider calls or messages were made.
 
 These images demonstrate application rendering and the observed local UI
 workflow. They do not establish production throughput, adoption, customer
