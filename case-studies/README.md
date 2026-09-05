@@ -16,6 +16,11 @@ states the problem, decisive move, evidence, limitation, and public boundary.
 The [evidence ledger](../proof/README.md) links the underlying repositories,
 datasets, releases, workflows, and live surfaces.
 
+## Delivered client work
+
+- [Ladie One](ladie-one.md) — artist website design and development, with an
+  actual multi-image desktop/mobile gallery and explicit scope attribution.
+
 ## Source-private product notes
 
 - [IGD Games](igd-games.md) — a public browser-game lab with private source;

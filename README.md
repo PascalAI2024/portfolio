@@ -43,6 +43,18 @@ studies explain the engineering without presenting private code as open source.
 [Overwatch case study](case-studies/overwatch.md) ·
 [current professional profile](https://www.linkedin.com/in/pascal-l-7ab39b3b/)
 
+### Client delivery · Ladie One
+
+An artist portfolio built around the work itself: an asymmetric mural
+showcase, categorized galleries, keyboard-accessible image viewing and a
+responsive artist story. I designed and developed the website; the artwork
+and the artist's brand collaborations remain hers.
+
+<a href="case-studies/ladie-one.md"><img src="assets/ladie-one/ladie-one-featured-landscape-v3.png" alt="Actual Ladie One artist website with a six-project mural showcase" width="900"></a>
+
+**Explore:** [project story and real desktop/mobile gallery](case-studies/ladie-one.md) ·
+[live website](https://ladieone.com/)
+
 ### 01 · [fplbench](https://github.com/PascalAI2024/fplbench) — applied ML that keeps score
 
 A leakage-safe Fantasy Premier League dataset and forecasting system. Forecasts
