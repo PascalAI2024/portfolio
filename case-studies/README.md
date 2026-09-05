@@ -30,6 +30,8 @@ These notes explain recurring design decisions in private systems. They are
 useful context, but they are **not** counted as independently inspectable proof:
 
 - [JarvisMCP](jarvismcp.md) — bounded capability discovery and execution.
+- [ButlerCRM](butlercrm.md) — customer context and delivery work, with actual
+  application screenshots using fictional demo records.
 - [Overwatch](overwatch.md) — search intelligence as a working surface.
 - [IGD WP](igd-wp.md) — modular WordPress operations.
 - [VibeFlow](vibeflow.md) — local-first dictation.

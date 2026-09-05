@@ -40,6 +40,7 @@ operational interface. These systems have private source. Their public case
 studies explain the engineering without presenting private code as open source.
 
 **Explore:** [JarvisMCP architecture](case-studies/jarvismcp.md) ·
+[ButlerCRM desktop and mobile workflow](case-studies/butlercrm.md) ·
 [Overwatch case study](case-studies/overwatch.md) ·
 [current professional profile](https://www.linkedin.com/in/pascal-l-7ab39b3b/)
 
