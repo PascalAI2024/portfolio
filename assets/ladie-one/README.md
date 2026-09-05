@@ -18,3 +18,8 @@ Use the saved sizes above and preserve aspect ratio when displaying images.
 Website design and development: Ingenious Digital. Artwork, artist statistics
 and depicted brand collaborations: Ladie One. The external shop is excluded
 from the credited development scope.
+
+Review covered the live homepage and Works route, full-size image framing,
+source implementation of gallery keyboard controls and the embedded Square
+panel. No appointment was submitted. No conversion, revenue or search-ranking
+uplift was measured or claimed for this case study.
