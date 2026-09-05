@@ -18,6 +18,8 @@ datasets, releases, workflows, and live surfaces.
 
 ## Delivered client work
 
+- [Healthy Glow Shopify](healthy-glow-shopify.md) — branded collections and
+  product discovery, with actual desktop and mobile storefront views.
 - [Ladie One](ladie-one.md) — artist website design and development, with an
   actual multi-image desktop/mobile gallery and explicit scope attribution.
 
