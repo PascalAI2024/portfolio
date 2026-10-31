@@ -1,6 +1,6 @@
 # IGD Games — a browser-game lab you can play
 
-**[Open IGD Games](https://games.igddev.com)** · Public demos, private source
+**[Open IGD Games](https://games.ingeniousdigital.com)** · Public demos, private source
 
 ## The work
 
@@ -25,7 +25,7 @@ controls, supported play surfaces and current stage of each build.
 
 ## Evidence and limits
 
-The [live hub](https://games.igddev.com) is the public artifact. Visitors can
+The [live hub](https://games.ingeniousdigital.com) is the public artifact. Visitors can
 inspect the presentation and try the games themselves. The collection includes
 early prototypes and launch candidates; inclusion here is not a claim that a
 game has passed an external storefront's review or reached a finished commercial

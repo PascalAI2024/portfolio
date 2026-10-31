@@ -156,7 +156,7 @@ flowchart TB
 
 ### More public work
 
-- **[IGD Games](https://games.igddev.com)** — a playable browser-game lab spanning
+- **[IGD Games](https://games.ingeniousdigital.com)** — a playable browser-game lab spanning
   circuit puzzles, colony routing, Latvian folklore and tactical prototypes.
   Try **Gizmo Works**, **SubTerra Lite**, and **Papardes Zieds** in the browser.
   The demos are public; source is private and release maturity varies by game.
