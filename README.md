@@ -25,7 +25,7 @@ This portfolio covers an unusual but coherent range: governed agent systems,
 applied machine learning, GPU performance engineering, native developer tools,
 web products, data operations, and embedded AI.
 
-For a wider product view, visit [IGD/dev](https://igddev.com). For commercial
+For a wider product view, visit [IGD/dev](https://labs.ingeniousdigital.com). For commercial
 work, use the [Ingenious Digital contact page](https://ingeniousdigital.com/contact).
 
 ## The work
