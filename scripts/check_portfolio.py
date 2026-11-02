@@ -32,8 +32,8 @@ REQUIRED_README_LINKS = {
 INACCESSIBLE_PROOF_URLS = {
     "https://github.com/PascalAI2024/igd-wp",
     "https://github.com/PascalAI2024/VibeFlow",
-    "https://mcp.igddev.com/mcp",
-    "https://overwatch.igddev.com",
+    "https://mcp.ingeniousdigital.com/mcp",
+    "https://overwatch.ingeniousdigital.com",
 }
 
 
