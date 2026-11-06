@@ -17,6 +17,11 @@
   <a href="https://ingeniousdigital.com/contact">Work together</a>
 </p>
 
+<p align="center">
+  <a href="https://labs.ingeniousdigital.com"><img src="assets/labs-site-capture.png" alt="The IGD/dev site at labs.ingeniousdigital.com, desktop and 390 px mobile" width="900"></a><br>
+  <sub>The IGD/dev site this repository points to, captured 2026-11-05 at 1440 px and 390 px.</sub>
+</p>
+
 ---
 
 ## The short version
