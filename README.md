@@ -35,7 +35,7 @@ work, use the [Ingenious Digital contact page](https://ingeniousdigital.com/cont
 
 ## The work
 
-### Production systems · JarvisMCP, ButlerCRM and Overwatch
+### Systems I run · JarvisMCP, ButlerCRM and Overwatch
 
 I build and operate the applications around the AI integration: **JarvisMCP**
 connects agents to discoverable capabilities and durable task coordination;
